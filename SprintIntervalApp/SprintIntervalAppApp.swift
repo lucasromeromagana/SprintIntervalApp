@@ -11,7 +11,7 @@ import SwiftUI
 struct SprintIntervalAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SprintSetupView()
         }
     }
 }
